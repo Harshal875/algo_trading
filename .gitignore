@@ -1,0 +1,9 @@
+quantvenv
+.env
+# Ignore Python bytecode files
+__pycache__/
+
+logs/
+learnings1.txt
+
+credentials.json

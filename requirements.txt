@@ -1,0 +1,30 @@
+# =========================
+# ALGO TRADING SYSTEM REQUIREMENTS
+# =========================
+
+# Core Data & Finance
+yfinance==0.2.18
+pandas==2.0.3
+numpy==1.24.3
+
+# Machine Learning
+scikit-learn==1.3.0
+
+# Visualization
+matplotlib==3.7.1
+
+# Google Sheets Integration
+gspread==5.10.0
+oauth2client==4.1.3
+
+# Telegram Integration
+python-telegram-bot==20.3
+
+# Configuration Management
+python-dotenv==1.0.0
+
+# Task Scheduling (for automation)
+schedule==1.2.0
+
+
+
