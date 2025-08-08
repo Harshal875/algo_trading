@@ -266,18 +266,8 @@ python-dotenv==1.0.0
 - [ ] Risk-adjusted performance metrics (Sharpe ratio, max drawdown)
 - [ ] Options and derivatives trading strategies
 
-## 📞 Support
-
 For questions or issues:
 1. Check Google Sheets permissions and service account setup
 2. Verify all dependencies are installed correctly
 3. Ensure `credentials.json` is in the correct location
 4. Test individual components before running the full system
-
-## ⚖️ Disclaimer
-
-This system is for educational and demonstration purposes only. Past performance does not guarantee future results. Always conduct thorough testing and risk assessment before any real trading implementation.
-
----
-
-**Built with ❤️ for algorithmic trading education and demonstration**
